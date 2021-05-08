@@ -1,4 +1,5 @@
 # Text To HTML
 - Created the Text to HTML Django Project
-- Check the directory template/
-- Update the front end
+- Front end done
+- Embedded tinyMCE rich editor for inputting formatted text
+- Added indentation to the HTML code
